@@ -1,3 +1,7 @@
-![Customers churn rate](https://github.com/shanusaras/Deep_Learning_projects/blob/main/Bank_Customer_Churn_prediction/img.jpg)
+<p float="left">
+  <img src="https://github.com/shanusaras/Deep_Learning_projects/blob/main/Bank_Customer_Churn_prediction/img.jpg" width="200" />
+  <img src="https://github.com/shanusaras/Deep_Learning_projects/blob/main/Bank_Customer_Churn_prediction/img1.jpg" width="200" />
+  <img src="url3" width="200" />
+</p>
 
 This dataset contains **the customers details and their retention rate** in a bank.  By analyzing the prediction of probable customers closing their accounts in a bank, sutiable measures could help retaining them in a long way. 
