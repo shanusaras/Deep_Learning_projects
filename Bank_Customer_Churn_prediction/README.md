@@ -1,5 +1,6 @@
 <p float="left">
-  <img src="https://github.com/shanusaras/Deep_Learning_projects/blob/main/Bank_Customer_Churn_prediction/img.jpg" width="300" />
+  <img src="![Uploading image.png…]()
+" width="300" />
   <img src="https://github.com/shanusaras/Deep_Learning_projects/blob/main/Bank_Customer_Churn_prediction/img1.jpg" width="300" />
 </p>
 
